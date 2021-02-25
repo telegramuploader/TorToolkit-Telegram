@@ -5,16 +5,16 @@ except:
         # Set true if its VPS
         IS_VPS = False
         
-        API_HASH = ""
-        API_ID = 0
-        BOT_TOKEN = ""
-        BASE_URL_OF_BOT = ""
+        API_HASH = "f7ec7a1bc8c41c6fe23c2706c67eda7c"
+        API_ID = 1383392
+        BOT_TOKEN = "1624212051:AAH-oPbG1XkMsxehMHgpMyGAqmktUWbRLyw"
+        BASE_URL_OF_BOT = "http://masszippymovies.ga"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = []
+        ALD_USR = [-461966684,901103224]
         
         # Google Drive Index Link should include the base dir also See readme for more info
         GD_INDEX_URL = False
