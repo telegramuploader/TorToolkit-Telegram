@@ -7,8 +7,8 @@ except:
         
         API_HASH = "f7ec7a1bc8c41c6fe23c2706c67eda7c"
         API_ID = 1383392
-        BOT_TOKEN = "1624212051:AAH-oPbG1XkMsxehMHgpMyGAqmktUWbRLyw"
-        BASE_URL_OF_BOT = "http://masszippymovies.ga"
+        BOT_TOKEN = "1698024121:AAGJs3Zny5XD2IRLLLFv3mdkb1AJbUybb2k"
+        BASE_URL_OF_BOT = "http://masszippymovies.ml"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
